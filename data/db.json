@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "My first Post",
+      "datetime": "August 15, 2025 7:45:08 PM",
+      "body": "Made a video about something"
+    },
+    {
+      "id": "2",
+      "title": "My second Post",
+      "datetime": "September 10,2023 1:17:36 AM",
+      "body": "Made a photo about something"
+    },
+    {
+      "id": "3",
+      "title": "My third Post",
+      "datetime": "August 17, 2025 12:31:58 PM",
+      "body": "Made a video about cooking"
+    },
+    {
+      "id": "4",
+      "title": "My fourth Post",
+      "datetime": "May 20,2024 06:17:36 PM",
+      "body": "Madie a video about sleeping"
+    }
+  ]
+}
