@@ -1,4 +1,4 @@
-name: Post-App-using-react
+name: post
 
 on:
   push:
