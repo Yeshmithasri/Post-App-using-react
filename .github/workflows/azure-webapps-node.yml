@@ -57,6 +57,6 @@ jobs:
         uses: azure/webapps-deploy@v3
         id: deploy-to-webapp
         with:
-          app-name: 'Post-App-using-react'   # 👈 use your actual Azure Web App name
+          app-name: 'Post-App-using-react'  
           slot-name: 'Production'
           package: build
